@@ -1,0 +1,4 @@
+repository "MY smaf@ChaeSoGong@cloud"
+  path "/"
+    br "/main"
+    co "/main"

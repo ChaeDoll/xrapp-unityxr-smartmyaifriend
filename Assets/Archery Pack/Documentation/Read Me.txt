@@ -1,0 +1,30 @@
+Documentation of Archery Range Asset Pack:
+
+In this asset pack, we have created an Archery Range environment with various objects and props, which can be used to create a realistic and immersive archery range scene for your Unity game or project. All the models are created separately, and they are reusable, so you can use and place them in your environment as per your requirement.
+
+The Archery Range Asset Pack consists of different objects such as the archery range itself, targets, shooting lanes, equipment racks, and other objects to make a complete archery range setting. The models are designed with attention to detail and optimized for real-time rendering. You can find different types of archery ranges in this package, and you can customize their colors to suit your needs.
+
+We have organized the asset pack into different folders for easy access:
+
+Material:
+Models are made with appropriate materials to ensure a realistic look.
+
+Models:
+In this models folder, you will find different types of models related to the archery range, targets, shooting lanes, etc.
+
+Prefabs:
+All the necessary objects of the Archery Range Asset Pack are placed in the prefabs folder, so you can easily drag and drop them into your scene. The prefabs are set up with proper colliders, allowing for accurate collision detection during gameplay.
+
+Scene:
+There are demo scenes of the Archery Range included in this folder. These scenes showcase how the assets can be arranged and utilized to create a complete archery range environment.
+
+Animation:
+	you can see animation of different props.
+
+Texture:
+Models are textured using high-resolution textures to enhance the visual quality of the assets.
+
+Documentation:
+A readme file is provided with detailed instructions on how to use the assets, including information on scaling, rotation, and customization options.
+
+All the prefabs are created, and you can use each prefab according to your environment. Each object is scalable, and you can transform and rotate every object as per your requirement. With this asset pack, you can create an immersive and realistic archery range environment for your Unity game or project.
